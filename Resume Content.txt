@@ -1,0 +1,39 @@
+Certainly! Here's a draft for the experience section of your CV based on the information provided:
+
+---
+
+**Experience**
+
+**Maruti Computer Pvt Ltd**
+
+*Software Programmer*  
+*Duration: [Start Date] - [End Date]*
+
+At Maruti Computer Pvt Ltd, I contributed to the development and maintenance of software solutions over a span of 3 years and 4 months. During my tenure, I actively participated in two significant projects, leveraging my skills in software programming and development methodologies.
+
+**Key Responsibilities and Achievements:**
+- Developed and implemented robust software solutions in collaboration with cross-functional teams, adhering to project timelines and quality standards.
+- Utilized [specific technologies or languages relevant to your projects] to design and code software components, ensuring scalability and performance optimization.
+- Conducted thorough testing and debugging to resolve issues and improve functionality, contributing to a 15% reduction in post-release defects.
+- Collaborated closely with project managers and stakeholders to gather requirements, define project scopes, and deliver solutions that met client expectations.
+- Played a key role in the successful deployment and integration of [mention any specific integrations or technologies used].
+- Actively participated in team meetings and contributed innovative ideas to improve project efficiency and code quality.
+
+**Projects Undertaken:**
+1. **[Project Name 1]**  
+   - Description: [Brief overview of the project, its purpose, and your role/responsibilities]
+   - Technologies Used: [List of technologies, frameworks, and tools used]
+
+2. **[Project Name 2]**  
+   - Description: [Brief overview of the project, its purpose, and your role/responsibilities]
+   - Technologies Used: [List of technologies, frameworks, and tools used]
+
+**Skills Developed:**
+- Proficiency in [specific programming languages or technologies]
+- Strong understanding of software development lifecycle (SDLC) and agile methodologies
+- Problem-solving skills and ability to troubleshoot technical issues efficiently
+- Effective communication and teamwork in a collaborative environment
+
+---
+
+Feel free to customize this draft with specific details about the projects you worked on, technologies used, and any quantifiable achievements or contributions you made during your tenure at Maruti Computer Pvt Ltd.
